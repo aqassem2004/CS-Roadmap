@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/244ce8c4-189f-44fb-a942-68f2b683733f)# CS-Roadmap
+# CS-Roadmap
 
 By [Ahmed Qassem](#) for Computer Science Circle in [MEGA Team MU](https://www.facebook.com/megateam.mu18)
 

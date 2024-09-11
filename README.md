@@ -22,8 +22,8 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 ### Introduction to Computer Science
 
 - [Abdelrahman Gamal (CS50 Course Video 1)](https://youtu.be/baLMODtYFog?si=wOBuHGIxcVfoDaXD)
-- [Abdelrahman Gamal (CS50 Course Video 1)](https://youtu.be/o0jttG2c49M?si=YreL6IMTfgyBxqlx)
-- [Abdelrahman Gamal (CS50 Course Video 1)](https://youtu.be/IYEkbGhabfk?si=qZn8f7Ox4z5Z6dop)
+- [Abdelrahman Gamal (CS50 Course Video 2)](https://youtu.be/o0jttG2c49M?si=YreL6IMTfgyBxqlx)
+- [Abdelrahman Gamal (CS50 Course Video 3)](https://youtu.be/IYEkbGhabfk?si=qZn8f7Ox4z5Z6dop)
                    
 ### Programming Language + OOP
 
@@ -40,8 +40,10 @@ In this section, you are free to choose the programming language you want to lea
 #### C++
 
 - [Elzero Web School (C++ + OOP Arabic)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
-- [Mostafa Saad (C++ Arabic)](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3)
-- [Mostafa Saad (C++ OOP Arabic)](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG)
+- [Adel Nasim (C++ Arabic)](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3)
+- [Adel Nasim (C++ OOP Arabic)](https://www.youtube.com/watch?v=YMXUxKDziaA&list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow)
+- [Mohamed Eldesoky (C++ Arabic)](https://www.youtube.com/playlist?list=PLJzrJ6NUlRb8e5o0jGe8yHYGy2Mu17Eeg)
+- [Mohamed Eldesoky (C++ OOP Arabic)](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)
 
 #### Python
 

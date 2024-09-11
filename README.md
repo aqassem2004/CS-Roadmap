@@ -93,11 +93,6 @@ In this section you are free to choose the programming language you want to lear
                     <li><a href="https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE">Abdelrahman Gamal (Python Arabic)</a></li>
                     <li>You can also buy Mustafa Saad's course/li>
                 </ul>
-                <h6> Note</h6>
-                <ul>
-                <li>If the programming language you want to learn is not here, I apologize, I will not be the ideal person to give it to you.</li>
-                <li>If the course you watched does not contain OOP, you can view other resources.</li>
-                </ul>
             </td>
         </tr>
     </tbody>

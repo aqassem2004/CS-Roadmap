@@ -35,7 +35,7 @@ In this section, you are free to choose the programming language you want to lea
 
 - [Dani Krossing (C# English)](https://www.youtube.com/playlist?list=PL0eyrZgxdwhxD9HhtpuZV22KxEJAZ55X-)
 - [Issam Abd Elnabi (C# + OOP )](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
-- [Mohamed Elmahdy (C# my recommendation](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
+- [Mohamed Elmahdy (C# )my recommendation](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
 
 #### C++
 

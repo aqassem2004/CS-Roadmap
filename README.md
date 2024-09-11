@@ -42,9 +42,9 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
-                    <li><a href="https:https://youtu.be/baLMODtYFog?si=wOBuHGIxcVfoDaXD">Abdelrahman Gamal (CS50 Course)</a></li>
-                    <li><a href="https://youtu.be/o0jttG2c49M?si=YreL6IMTfgyBxqlx">Abdelrahman Gamal (CS50 Course)</a></li>
-                    <li><a href="https://youtu.be/IYEkbGhabfk?si=qZn8f7Ox4z5Z6dop">Abdelrahman Gamal (CS50 Course)</a></li>
+                    <li><a href="https:https://youtu.be/baLMODtYFog?si=wOBuHGIxcVfoDaXD">Abdelrahman Gamal (CS50 Course Vedio 1)</a></li>
+                    <li><a href="https://youtu.be/o0jttG2c49M?si=YreL6IMTfgyBxqlx">Abdelrahman Gamal (CS50 Course Vedio 2)</a></li>
+                    <li><a href="https://youtu.be/IYEkbGhabfk?si=qZn8f7Ox4z5Z6dop">Abdelrahman Gamal (CS50 Course Vedio 3)</a></li>
                 </ul>
             </td>
         </tr>

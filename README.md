@@ -1,4 +1,4 @@
-# CS-Roadmap
+![image](https://github.com/user-attachments/assets/244ce8c4-189f-44fb-a942-68f2b683733f)# CS-Roadmap
 
 By [Ahmed Qassem](#) for Computer Science Circle in [MEGA Team MU](https://www.facebook.com/megateam.mu18)
 
@@ -52,41 +52,26 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 
 In this section, you are free to choose the programming language you want to learn.
 
-<table>
-    <thead>
-        <tr>
-            <th>Content</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <h5>🗝 Programming language</h5>
-                
-                <h6>C#</h6>
-                <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PL0eyrZgxdwhxD9HhtpuZV22KxEJAZ55X-">Dani Krossing (C# English)</a></li>
-                    <li><a href="https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l">Issam Abd Elnabi (C# + OOP Arabic)</a></li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI">Mohamed Elmahdy (C# Arabic) my recommendation</a></li>
-                </ul>
-                
-                <h6>C++</h6>
-                <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS">Elzero Web School (C++ Arabic)</a></li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3">Mostafa Saad (C++ Arabic)</a></li>
-                    <li>If you have a good source in English, please contact me.</li>
-                </ul>
-                
-                <h6>Python</h6>
-                <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero Web School (Python + OOP Arabic)</a></li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ">Codezilla (Python + OOP Arabic)</a></li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE">Abdelrahman Gamal (Python Arabic)</a></li>
-                    <li>You can also buy Mustafa Saad's course.</li>
-                </ul>
-            </td>
-        </tr>
-    </tbody>
-</table>
+### 🗝 Programming language
+
+#### C#
+
+- [Dani Krossing (C# English)](https://www.youtube.com/playlist?list=PL0eyrZgxdwhxD9HhtpuZV22KxEJAZ55X-)
+- [Issam Abd Elnabi (C# + OOP Arabic)](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
+- [Mohamed Elmahdy (C# Arabic) my recommendation](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
+
+#### C++
+
+- [Elzero Web School (C++ Arabic)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
+- [Mostafa Saad (C++ Arabic)](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3)
+- If you have a good source in English, please contact me.
+
+#### Python
+
+- [Elzero Web School (Python + OOP Arabic)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
+- [Codezilla (Python + OOP Arabic)](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)
+- [Abdelrahman Gamal (Python Arabic)](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE)
+- You can also buy Mustafa Saad's course.
+
 
 

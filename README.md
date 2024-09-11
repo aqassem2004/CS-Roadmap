@@ -21,33 +21,10 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 
 ### Introduction to Computer Science
 
-<table>
-    <thead>
-        <tr>
-            <th>Content</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <h5>🎯 Topics</h5>
-                <ul>
-                    <li>What is computer science?</li>
-                    <li>How does the computer understand us?</li>
-                    <li>Pseudocode Thinking</li>
-                </ul>
-                <h5>🎞️ Resources</h5>
-                <h6>🌏 Arabic</h6>
-                <ul>
-                    <li><a href="https://youtu.be/baLMODtYFog?si=wOBuHGIxcVfoDaXD">Abdelrahman Gamal (CS50 Course Video 1)</a></li>
-                    <li><a href="https://youtu.be/o0jttG2c49M?si=YreL6IMTfgyBxqlx">Abdelrahman Gamal (CS50 Course Video 2)</a></li>
-                    <li><a href="https://youtu.be/IYEkbGhabfk?si=qZn8f7Ox4z5Z6dop">Abdelrahman Gamal (CS50 Course Video 3)</a></li>
-                </ul>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
+- [Abdelrahman Gamal (CS50 Course Video 1)](https://youtu.be/baLMODtYFog?si=wOBuHGIxcVfoDaXD)
+- [Abdelrahman Gamal (CS50 Course Video 1)](https://youtu.be/o0jttG2c49M?si=YreL6IMTfgyBxqlx)
+- [Abdelrahman Gamal (CS50 Course Video 1)](https://youtu.be/IYEkbGhabfk?si=qZn8f7Ox4z5Z6dop)
+                   
 ### Programming Language + OOP
 
 In this section, you are free to choose the programming language you want to learn.
@@ -57,21 +34,23 @@ In this section, you are free to choose the programming language you want to lea
 #### C#
 
 - [Dani Krossing (C# English)](https://www.youtube.com/playlist?list=PL0eyrZgxdwhxD9HhtpuZV22KxEJAZ55X-)
-- [Issam Abd Elnabi (C# + OOP Arabic)](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
-- [Mohamed Elmahdy (C# Arabic) my recommendation](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
+- [Issam Abd Elnabi (C# + OOP )](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
+- [Mohamed Elmahdy (C# my recommendation](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
 
 #### C++
 
-- [Elzero Web School (C++ Arabic)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
+- [Elzero Web School (C++ + OOP Arabic)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
 - [Mostafa Saad (C++ Arabic)](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3)
-- If you have a good source in English, please contact me.
+- [Mostafa Saad (C++ OOP Arabic)](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG)
 
 #### Python
 
-- [Elzero Web School (Python + OOP Arabic)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
-- [Codezilla (Python + OOP Arabic)](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)
-- [Abdelrahman Gamal (Python Arabic)](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE)
+- [Elzero Web School (Python + OOP )](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
+- [Codezilla (Python + OOP)](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)
+- [Abdelrahman Gamal (Python)](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE)
 - You can also buy Mustafa Saad's course.
+
+
 
 
 

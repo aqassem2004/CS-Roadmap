@@ -18,4 +18,38 @@ The CS Roadmap is a comprehensive guide designed for anyone looking to dive into
 
 The CS Roadmap ensures a well-rounded understanding of computer science, from the basics to advanced topics, preparing learners to tackle real-world challenges in technology and beyond.
 
+## Content
+
+### Introduction to Computer Science
+
+<table>
+    <thead>
+        <tr>
+            <th>Phase</th>
+            <th>Content</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Week 1</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>What is computer science?</li>
+                    <li>How does the computer understand us?</li>
+                    <li>Pseudocode Thinking</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https:https://youtu.be/baLMODtYFog?si=wOBuHGIxcVfoDaXD">Abdelrahman Gamal (CS50 Course)</a></li>
+                    <li><a href="https://youtu.be/o0jttG2c49M?si=YreL6IMTfgyBxqlx">Abdelrahman Gamal (CS50 Course)</a></li>
+                    <li><a href="https://youtu.be/IYEkbGhabfk?si=qZn8f7Ox4z5Z6dop">Abdelrahman Gamal (CS50 Course)</a></li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
 

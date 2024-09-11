@@ -50,7 +50,6 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 
 ### Programming Language + OOP
 
-#### Plan 
 In this section, you are free to choose the programming language you want to learn.
 
 <table>
@@ -62,7 +61,7 @@ In this section, you are free to choose the programming language you want to lea
     <tbody>
         <tr>
             <td>
-                <h5>🗝 Programming language</h5>
+                <h5> Programming language</h5>
                 
                 <h6>C#</h6>
                 <ul>

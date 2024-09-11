@@ -50,6 +50,8 @@ In this section, you are free to choose the programming language you want to lea
 - [Abdelrahman Gamal (Python)](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE)
 - You can also buy Mustafa Saad's course.
 
+##### If you do not find an explanation of OOP in the course you have chosen, please review the rest of the sources.
+
 
 
 

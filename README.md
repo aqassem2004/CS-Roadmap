@@ -100,9 +100,18 @@ We will deal with Data Structure as STL's to learn how it works and how to use i
 - [Dynamic Programming  Dr.Ahmed Salah](https://www.youtube.com/playlist?list=PLUv-Cu7BZFSV_yDCMuLGlGMazIA80QOuP) DP video only
 
 
+### 📀 Introduction to Operating Systems
+- [ITI (Operating System)](https://www.youtube.com/playlist?list=PLSGEGD0dbMKoigQWgVJ_UoUJUGQPCHXKV)
+- [Dr. Ahmed Hagag](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)
 
 
+### 💾 Introduction to Database Systems
+This is just an introduction and not a course.
+
+-[Fundamentals of Database Systems Mohamed Eldesoky](https://www.youtube.com/playlist?list=PL37D52B7714788190)
+-[Database SQL Server ITI - بشمهندس رامي](https://www.youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_)
 
 
-
+## WARNING!
+These sources are not your first and last reference. They are some personal efforts, and you are required to research and learn on your own because this is a very broad field and requires continuous learning.
 

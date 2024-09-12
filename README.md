@@ -84,6 +84,14 @@ We will deal with Data Structure as STL's to learn how it works and how to use i
 
 - [Two pointer form 2:02:00](https://www.youtube.com/watch?v=gOK0JyiEkWI)
 - [Binary Search](https://www.youtube.com/watch?v=kleyhFIsU5E) We will talk together about Lower Bound and Upper Bound
+- [Recursion](https://www.youtube.com/watch?v=BBENTqZTjzc&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=15)
+- [Backtracking](https://www.youtube.com/watch?v=B_dar92mGwQ&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=16)
+- [Introduction to Graph Theory](https://www.youtube.com/watch?v=pU5PDOmM1cw&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=17)
+- [DFS](https://www.youtube.com/watch?v=8SaE3XfwJZg&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=18)
+- [BFS Muhammad Magdi ](https://www.youtube.com/watch?v=iJOB2lo39n0&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=19) or [BFS Kareem_Elgoker](https://www.youtube.com/watch?v=AuGNPvbfy4A&list=PL06TMXRpUI1QA6NX5k3iENWE10D4EuxKq&index=8)
+- [Dynamic Programming  Muhammad Magdi](https://www.youtube.com/playlist?list=PLw2JSXGww1OTDeAuckWXLaKUDFkAoOJzS)
+- [Dynamic Programming  Dr.Ahmed Salah](https://www.youtube.com/playlist?list=PLUv-Cu7BZFSV_yDCMuLGlGMazIA80QOuP) DP video only
+
 
 
 

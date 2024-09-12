@@ -79,6 +79,13 @@ We will deal with Data Structure as STL's to learn how it works and how to use i
 - [STL's 3 Muhammad Magdi](https://www.youtube.com/watch?v=u6WuKiOfLJo)
 - [STL's 4 Muhammad Magdi](https://www.youtube.com/watch?v=3sqOmhtH5SA)
 - All of these are sources of the same content. You are not required to hear them all.
+  This is what I recommend.
+- [1 -> Classes and Pointers Background](https://www.youtube.com/watch?v=zaGyD_BY8XQ)
+- [2 -> why Data Structures](https://www.youtube.com/watch?v=jGP19W5IObA&list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt&index=1) and [Static & Dynamic memory Allocation - Part 1](https://www.youtube.com/watch?v=OlY_Fwfyk6s&list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt&index=2) and [Static & Dynamic memory Allocation - Part 2](https://www.youtube.com/watch?v=XxniWLQEMMo&list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt&index=3)
+- [3 -> Mega Code ](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8)
+- Then watch Mohamed Magdy's course above.
+#### warning: These resources are only for learning the simple basics and not the complete content. You must strive to search and delve deeper and deeper.
+
 
 ### ⚙ Algorithms
 

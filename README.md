@@ -55,6 +55,9 @@ In this section, you are free to choose the programming language you want to lea
 ##### If you do not find an explanation of OOP in the course you have chosen, please review the rest of the sources.
 
 
+### 💡 Problem Solving
 
+The content of Problem Solving, Data Structure and Algorithms will be linked together to get the best possible benefit.
 
+To follow the tasks, you can join our group on codeforces [CS MEGA](https://codeforces.com/group/sfFl7whzkP/contests)
 

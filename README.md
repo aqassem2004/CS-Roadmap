@@ -61,3 +61,33 @@ The content of Problem Solving, Data Structure and Algorithms will be linked tog
 
 To follow the tasks, you can join our group on codeforces [CS MEGA](https://codeforces.com/group/sfFl7whzkP/contests)
 
+- [Why Problem Solving is important](https://www.youtube.com/watch?v=ipKtf75mTt8)
+- [Arrays & Strings & Built-In Fucntions](https://www.youtube.com/watch?v=5WSO-jcLpCM)
+- [Complexity Analysis 1](https://www.youtube.com/watch?v=wEbdQeVwLlo&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk) [Complexity Analysis 2](https://www.youtube.com/watch?v=o5zf5oVHtn0&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=2) 
+- [Ad-Hocs](https://www.youtube.com/watch?v=us7rcbGxq0g&t=9s)
+
+#### All content is explained in C++. You are required to understand the explanation and apply it in the language you want.
+
+
+### 🏯 Data Structure
+
+We will deal with Data Structure as STL's to learn how it works and how to use it. You will also find sources that explain its structure in a simplified way, or for greater benefit, you can request Dr. Mustafa Saad's course.
+- [Basic Data Structures Adel Nasim](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+- [Data Structures as STL's Adel Nasim](https://www.youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp)
+- [STL's 1 Muhammad Magdi](https://www.youtube.com/watch?v=Uh2hnrjO26o)
+- [STL's 2 Muhammad Magdi](https://www.youtube.com/watch?v=JdP77eojCpU)
+- [STL's 3 Muhammad Magdi](https://www.youtube.com/watch?v=u6WuKiOfLJo)
+- [STL's 4 Muhammad Magdi](https://www.youtube.com/watch?v=3sqOmhtH5SA)
+- All of these are sources of the same content. You are not required to hear them all.
+
+### ⚙ Algorithms
+
+- [Two pointer form 2:02:00](https://www.youtube.com/watch?v=gOK0JyiEkWI)
+- [Binary Search](https://www.youtube.com/watch?v=kleyhFIsU5E) We will talk together about Lower Bound and Upper Bound
+
+
+
+
+
+
+

@@ -63,7 +63,8 @@ To follow the tasks, you can join our group on codeforces [CS MEGA](https://code
 
 - [Why Problem Solving is important](https://www.youtube.com/watch?v=ipKtf75mTt8)
 - [Arrays & Strings & Built-In Fucntions](https://www.youtube.com/watch?v=5WSO-jcLpCM)
-- [Complexity Analysis 1](https://www.youtube.com/watch?v=wEbdQeVwLlo&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk) [Complexity Analysis 2](https://www.youtube.com/watch?v=o5zf5oVHtn0&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=2) 
+- [Complexity Analysis 1](https://www.youtube.com/watch?v=wEbdQeVwLlo&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk)
+- [Complexity Analysis 2](https://www.youtube.com/watch?v=o5zf5oVHtn0&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=2) 
 - [Ad-Hocs](https://www.youtube.com/watch?v=us7rcbGxq0g&t=9s)
 
 #### All content is explained in C++. You are required to understand the explanation and apply it in the language you want.
@@ -108,8 +109,8 @@ We will deal with Data Structure as STL's to learn how it works and how to use i
 ### 💾 Introduction to Database Systems
 This is just an introduction and not a course.
 
--[Fundamentals of Database Systems Mohamed Eldesoky](https://www.youtube.com/playlist?list=PL37D52B7714788190)
--[Database SQL Server ITI - بشمهندس رامي](https://www.youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_)
+- [Fundamentals of Database Systems Mohamed Eldesoky](https://www.youtube.com/playlist?list=PL37D52B7714788190)
+- [Database SQL Server ITI - بشمهندس رامي](https://www.youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_)
 
 
 ## WARNING!

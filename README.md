@@ -67,7 +67,7 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 - [Video 2](https://www.youtube.com/watch?v=i4A7HG4bGic)
 - [Video 3](https://www.youtube.com/watch?v=v_i9VfvoQV4)
 > انا عاوزك تعرف الحاجات دي بس و تعالي بقي نحل المسائل الكتيير و هتلاقي الاسئلة دي موجوده علي جروب Codeforces الخاص بالتيم هتلاقي اللينك بتاعه هنا [CS MEGA](https://codeforces.com/group/StskhteBHq/contests)
-
+#### كنت حابب اننا نتعمق في ال Algorithms بس الموضوع يكون وساع اوي و مش هنعرف نغطيه الشكل الصحيح ف لو حابب تكمل ممكن تشتري كورسات د مصطفي سعد
 
 ## Object-Oriented Programming
 > هنا بقي بدأنا شغل الجد دا الموضوع الي بيفرق كل واحد عن التاني في المجال و عيب تقول علي نفسك Developer و انت مش عارف حاجه عن OOP و بفضل انك تتعلم بالغة بتاعتك عشان متضيعش وقت كتير
@@ -75,6 +75,12 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 - [Issam Abd Elnabi (OOP only 9 : 26 ) C#](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
 - [Mostafa Saad Ibrahim C++ ](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG)
 
+> طبعا هنحتاج مشاريع عشان نطبق الكلام دا و هل في احسن من مشاريع د مصطفي سعد
+- [1 Mini-Project - library](https://youtu.be/zzuhhAuW5FY)
+- [2 AskMe](https://youtu.be/xNu6L_pidUo)
+- [3 OnlineBookReader](https://youtu.be/Rk8vrmSpFII?si=hlSwtzXZu9r0OdlZ)
+- [4 EducationalManagementSystem](https://youtu.be/hsEGVVu7_lE?si=utxjbP1oieQLYMcV)
+> اوعدك انك هتكون تنين لو عملت المشاريع دي
 ### 🗝 Programming language
 #### Object-Oriented Programming
  

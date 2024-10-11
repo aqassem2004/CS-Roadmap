@@ -66,7 +66,7 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 - [Video 1](https://www.youtube.com/watch?v=GXBdU5NReeg)
 - [Video 2](https://www.youtube.com/watch?v=i4A7HG4bGic)
 - [Video 3](https://www.youtube.com/watch?v=v_i9VfvoQV4)
-> انا عاوزك تعرف الحاجات دي بس و تعالي بقي نحل المسائل الكتيير و هتلاقي الاسئلة دي موجوده علي جروب Codeforces الخاص بالتيم هتلاقي اللينك بتاعه هنا [CS MEGA](https://codeforces.com/group/sfFl7whzkP/contests)
+> انا عاوزك تعرف الحاجات دي بس و تعالي بقي نحل المسائل الكتيير و هتلاقي الاسئلة دي موجوده علي جروب Codeforces الخاص بالتيم هتلاقي اللينك بتاعه هنا [CS MEGA](https://codeforces.com/group/StskhteBHq/contests)
 
 
 ## Object-Oriented Programming

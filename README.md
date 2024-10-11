@@ -80,92 +80,34 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 - [2 AskMe](https://youtu.be/xNu6L_pidUo)
 - [3 OnlineBookReader](https://youtu.be/Rk8vrmSpFII?si=hlSwtzXZu9r0OdlZ)
 - [4 EducationalManagementSystem](https://youtu.be/hsEGVVu7_lE?si=utxjbP1oieQLYMcV)
-> اوعدك انك هتكون تنين لو عملت المشاريع دي
-### 🗝 Programming language
-#### Object-Oriented Programming
- 
-#### C#
+> اوعدك انك هتكون تنين بجد لو عملت المشاريع دي
+# Advanced Level
+> تعالي معايه نأخد غطس محترم عشان نفهم اكثر عن بعض المواضيع الي مينفعش انسان في المجال بتاعنا ميكونش عارفها
 
-- [Dani Krossing (C# English)](https://www.youtube.com/playlist?list=PL0eyrZgxdwhxD9HhtpuZV22KxEJAZ55X-)
-- [Issam Abd Elnabi (C# + OOP )](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
-- [Mohamed Elmahdy (C# )my recommendation](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
+## 💾 Introduction to Database Systems
+- [Dr. Daniel Soper (first 5 videos)](https://www.youtube.com/playlist?list=PL1LIXLIF50uXWJ9alDSXClzNCMynac38g)
+  or
+- [‪Mohamed El Desouki‬‏ (first 14 videos)](https://www.youtube.com/playlist?list=PL37D52B7714788190)
+  
+## 📀 Introduction to Operating Systems
+- [1 Dr. Ahmed Hagag](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)
+- [2 Ahmed Younes Video 1](https://www.youtube.com/watch?v=cjZqwsxLVtQ&list=PLkpYqKNqc_CvCqERss2WBKWE3fb1jEmKE&index=6)
+- [2 Ahmed Younes Video 2](https://www.youtube.com/watch?v=EWof2WGvFCw&list=PLkpYqKNqc_CvCqERss2WBKWE3fb1jEmKE&index=6)
 
-#### C++
+## Design Patterns
+- [Christopher Okhravi](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 
-- [Elzero Web School (C++ + OOP Arabic)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
-- [Adel Nasim (C++ Arabic)](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3)
-- [Adel Nasim (C++ OOP Arabic)](https://www.youtube.com/watch?v=YMXUxKDziaA&list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow)
-- [Mohamed Eldesoky (C++ Arabic)](https://www.youtube.com/playlist?list=PLJzrJ6NUlRb8e5o0jGe8yHYGy2Mu17Eeg)
-- [Mohamed Eldesoky (C++ OOP Arabic)](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)
-
-#### Python
-
-- [Elzero Web School (Python + OOP )](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
-- [Codezilla (Python + OOP)](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)
-- [Abdelrahman Gamal (Python)](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE)
-- You can also buy Mustafa Saad's course.
-
-##### If you do not find an explanation of OOP in the course you have chosen, please review the rest of the sources.
+# General Knowledge
+> زي ما انت شايف دي حاجات هتسهل عليك الشغل و تعرفك الدنيا بتمشي ازاي و لك حرية الاختيار طبعا
+- [Git and GitHub](https://youtu.be/Q6G-J54vgKc?si=Ybxu8hq2V33G8tFZ)
+- [APIs](https://www.youtube.com/watch?v=GZvSYJDk-us)
 
 
-### 💡 Problem Solving
+# الخاتمة
+## طبعا مش بقول ان دا كل حاجه ولا انك خلاص هتنزل تشتغل حالا انت كده يعتبر حطيت الاساس بتاع شغلك صح مش اكثر 
+## قد يكون في مصادر احسن من الي موجودة هنا المصادر دي مش اول و اخر حاجه هتذاكر منها عود نفسك انك تدور علي المعلومه و تحل مشاكلك بنفسك
+# Contact us
+- [facebook](https://www.facebook.com/profile.php?id=100012635899101)
+- [Linked In](https://www.linkedin.com/in/a-qassem/)
 
-The content of Problem Solving, Data Structure and Algorithms will be linked together to get the best possible benefit.
-
-To follow the tasks, you can join our group on codeforces [CS MEGA](https://codeforces.com/group/sfFl7whzkP/contests)
-
-- [Why Problem Solving is important](https://www.youtube.com/watch?v=ipKtf75mTt8)
-- [Arrays & Strings & Built-In Fucntions](https://www.youtube.com/watch?v=5WSO-jcLpCM)
-- [Complexity Analysis 1](https://www.youtube.com/watch?v=wEbdQeVwLlo&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk)
-- [Complexity Analysis 2](https://www.youtube.com/watch?v=o5zf5oVHtn0&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=2) 
-- [Ad-Hocs](https://www.youtube.com/watch?v=us7rcbGxq0g&t=9s)
-
-#### All content is explained in C++. You are required to understand the explanation and apply it in the language you want.
-
-
-### 🏯 Data Structure
-
-We will deal with Data Structure as STL's to learn how it works and how to use it. You will also find sources that explain its structure in a simplified way, or for greater benefit, you can request Dr. Mustafa Saad's course.
-- [Basic Data Structures Adel Nasim](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
-- [Data Structures as STL's Adel Nasim](https://www.youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp)
-- [STL's 1 Muhammad Magdi](https://www.youtube.com/watch?v=Uh2hnrjO26o)
-- [STL's 2 Muhammad Magdi](https://www.youtube.com/watch?v=JdP77eojCpU)
-- [STL's 3 Muhammad Magdi](https://www.youtube.com/watch?v=u6WuKiOfLJo)
-- [STL's 4 Muhammad Magdi](https://www.youtube.com/watch?v=3sqOmhtH5SA)
-- All of these are sources of the same content. You are not required to hear them all.
-  This is what I recommend.
-- [1 -> Classes and Pointers Background](https://www.youtube.com/watch?v=zaGyD_BY8XQ)
-- [2 -> why Data Structures](https://www.youtube.com/watch?v=jGP19W5IObA&list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt&index=1) and [Static & Dynamic memory Allocation - Part 1](https://www.youtube.com/watch?v=OlY_Fwfyk6s&list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt&index=2) and [Static & Dynamic memory Allocation - Part 2](https://www.youtube.com/watch?v=XxniWLQEMMo&list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt&index=3)
-- [3 -> Mega Code ](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8)
-- Then watch Mohamed Magdy's course above.
-#### warning: These resources are only for learning the simple basics and not the complete content. You must strive to search and delve deeper and deeper.
-
-
-### ⚙ Algorithms
-
-- [Two pointer form 2:02:00](https://www.youtube.com/watch?v=gOK0JyiEkWI)
-- [Binary Search](https://www.youtube.com/watch?v=kleyhFIsU5E) We will talk together about Lower Bound and Upper Bound
-- [Recursion](https://www.youtube.com/watch?v=BBENTqZTjzc&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=15)
-- [Backtracking](https://www.youtube.com/watch?v=B_dar92mGwQ&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=16)
-- [Introduction to Graph Theory](https://www.youtube.com/watch?v=pU5PDOmM1cw&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=17)
-- [DFS](https://www.youtube.com/watch?v=8SaE3XfwJZg&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=18)
-- [BFS Muhammad Magdi ](https://www.youtube.com/watch?v=iJOB2lo39n0&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=19) or [BFS Kareem_Elgoker](https://www.youtube.com/watch?v=AuGNPvbfy4A&list=PL06TMXRpUI1QA6NX5k3iENWE10D4EuxKq&index=8)
-- [Dynamic Programming  Muhammad Magdi](https://www.youtube.com/playlist?list=PLw2JSXGww1OTDeAuckWXLaKUDFkAoOJzS)
-- [Dynamic Programming  Dr.Ahmed Salah](https://www.youtube.com/playlist?list=PLUv-Cu7BZFSV_yDCMuLGlGMazIA80QOuP) DP video only
-
-
-### 📀 Introduction to Operating Systems
-- [ITI (Operating System)](https://www.youtube.com/playlist?list=PLSGEGD0dbMKoigQWgVJ_UoUJUGQPCHXKV)
-- [Dr. Ahmed Hagag](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)
-
-
-### 💾 Introduction to Database Systems
-This is just an introduction and not a course.
-
-- [Fundamentals of Database Systems Mohamed Eldesoky](https://www.youtube.com/playlist?list=PL37D52B7714788190)
-- [Database SQL Server ITI - بشمهندس رامي](https://www.youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_)
-
-
-## WARNING!
-These sources are not your first and last reference. They are some personal efforts, and you are required to research and learn on your own because this is a very broad field and requires continuous learning.
-
+# اللهم صلي و سلم و بارك علي سيدنا محمد و علي اله و صحبه وسلم

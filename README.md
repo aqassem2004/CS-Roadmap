@@ -25,14 +25,18 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 - [Abdelrahman Gamal (CS50 Course Video 2)](https://youtu.be/o0jttG2c49M?si=YreL6IMTfgyBxqlx)
 - [Abdelrahman Gamal (CS50 Course Video 3)](https://youtu.be/IYEkbGhabfk?si=qZn8f7Ox4z5Z6dop)
                    
-### Programming Language + OOP
-
-In this section, you are free to choose the programming language you want to learn.
-## 🗝 Programming language
+## 🗝 Programming language + OOP
 > لغات البرمجة كتيرة جدا و متنوعه فهنحاول نركز مع بعض علي اللغات المنتشرة عندنا الا وهم C++ و C# و بفضل انك تبدأ ب C++ عشان هتلاقي مصادر كتير محترمة تساعدك و عشان دي اللغة الي هنستخدمها و احنا بنتعلم Problem Solving
 > طب هل الفرق بين اللغات كبير ؟؟ طبعا لا و انت بتتعلم برمجة بتتعلم القواعد و بتستخدمها علي اي لغة ف انت تأكد من انك فاهم اللغة الي بتذاكر بيها كويس و لو حبيت بعد كده تتنقل بين اللغات الامر هيكون سهل جدا
 
 ### C#
+
+#### Programming language
+
+- [Mohamed Elmahdy (C# )my recommendation](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
+> بصراحة شايف ان الراجل دا مصدر كافي شرحة بسيط و بيتكلم في كل كبيرة و صغيرة في اللغة ف مش هنحط مصادر كتير هنا
+#### Object-Oriented Programming
+ [Issam Abd Elnabi (OOP only 9 : 26 )](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
 
 
 ### 🗝 Programming language

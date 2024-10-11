@@ -59,6 +59,14 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 - [Bactracking](https://www.youtube.com/watch?v=lmhlsBwRKGo&list=PLBkwGJXcrCAS-s51m2n1ed_xbyqI_cEio&pp=iAQB)
 
 > عاش يا تنين انت كده خلصت جزء كبير اوي في المشوار بتاعنا
+# Intermidiate Level
+
+## 💡 Problem Solving 
+> يله ننور عقلك و نعيش جو ال Problem Solving و نحاول نتمرن علي كتابة الكود و اعمل حسابك اننا هنحل كتييييييييييييييييييييييييييييييييير اكثر من عدد مرات ظهور حرف الياء بس قبل م نحل تعالي نذاكر كام حاجه
+- [Video 1](https://www.youtube.com/watch?v=GXBdU5NReeg)
+- [Video 2](https://www.youtube.com/watch?v=i4A7HG4bGic)
+- [Video 3](https://www.youtube.com/watch?v=v_i9VfvoQV4)
+> انا عاوزك تعرف الحاجات دي بس و تعالي بقي نحل المسائل الكتيير و هتلاقي الاسئلة دي موجوده علي جروب Codeforces الخاص بالتيم هتلاقي اللينك بتاعه هنا [CS MEGA](https://codeforces.com/group/sfFl7whzkP/contests)
 
 
 ## Object-Oriented Programming

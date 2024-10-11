@@ -25,22 +25,30 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 - [Abdelrahman Gamal (CS50 Course Video 2)](https://youtu.be/o0jttG2c49M?si=YreL6IMTfgyBxqlx)
 - [Abdelrahman Gamal (CS50 Course Video 3)](https://youtu.be/IYEkbGhabfk?si=qZn8f7Ox4z5Z6dop)
                    
-## 🗝 Programming language + OOP
+## 🗝 Programming language 
 > لغات البرمجة كتيرة جدا و متنوعه فهنحاول نركز مع بعض علي اللغات المنتشرة عندنا الا وهم C++ و C# و بفضل انك تبدأ ب C++ عشان هتلاقي مصادر كتير محترمة تساعدك و عشان دي اللغة الي هنستخدمها و احنا بنتعلم Problem Solving
 > طب هل الفرق بين اللغات كبير ؟؟ طبعا لا و انت بتتعلم برمجة بتتعلم القواعد و بتستخدمها علي اي لغة ف انت تأكد من انك فاهم اللغة الي بتذاكر بيها كويس و لو حبيت بعد كده تتنقل بين اللغات الامر هيكون سهل جدا
 
 ### C#
 
-#### Programming language
-
-- [Mohamed Elmahdy (C# )my recommendation](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
+- [Mohamed Elmahdy](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
 > بصراحة شايف ان الراجل دا مصدر كافي شرحة بسيط و بيتكلم في كل كبيرة و صغيرة في اللغة ف مش هنحط مصادر كتير هنا
+### C++
+> دي بقي فيها مصادر كتير عندك حرية الاختيار للمصدر الي بترتاح لسماعه
+- [Mostafa Saad Ibrahim](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3)
+- [Elzero Web School ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
+- [Mohamed Eldesoky](https://www.youtube.com/playlist?list=PLJzrJ6NUlRb8e5o0jGe8yHYGy2Mu17Eeg)
+- [Adel Nasim ](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3)
+
+## STL's
+> عرفت اللغة بتاعتك يا سيدي تعالي نعرف بقي بعد الحاجات الي هتساعدنا في شغلنا و الي هنبني عليها شغل كتير في ال Data Structure
+
+- [Muhammad Magdi](https://www.youtube.com/playlist?list=PLw2JSXGww1OS2iElMxLGO2TiG88Ggy1rv)
+- [Adel Nasim](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+- 
+### 🗝 Programming language
 #### Object-Oriented Programming
  [Issam Abd Elnabi (OOP only 9 : 26 )](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
-
-
-### 🗝 Programming language
-
 #### C#
 
 - [Dani Krossing (C# English)](https://www.youtube.com/playlist?list=PL0eyrZgxdwhxD9HhtpuZV22KxEJAZ55X-)

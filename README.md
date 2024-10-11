@@ -42,10 +42,16 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 
 ## STL's
 > عرفت اللغة بتاعتك يا سيدي تعالي نعرف بقي بعد الحاجات الي هتساعدنا في شغلنا و الي هنبني عليها شغل كتير في ال Data Structure
-
 - [Muhammad Magdi](https://www.youtube.com/playlist?list=PLw2JSXGww1OS2iElMxLGO2TiG88Ggy1rv)
 - [Adel Nasim](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
-- 
+
+## Recursion & Bactracking
+> دلوقتي هنبدأ نشتغل شغل عالي شويتين و نفهم كل تفصيلة عن استخدام ال Functions في اللغة و اعمل حسابك ان الشرح ب C++ و زي م قلتلك انت بتتعلم فكرة مش لغة ف متقلقش لو انت مش عارف حاجه عن C++
+- [Functions](https://www.youtube.com/watch?v=6m-RTOsvp7E&list=PLBkwGJXcrCATmqJ-xKYBtZIoMTVpHz6p7&pp=iAQB)
+- [Recursion](https://www.youtube.com/watch?v=t0cHKEof1S8&list=PLBkwGJXcrCATvPBkCUoJzURlO3MIeHZji&pp=iAQB)
+- [Bactracking](https://www.youtube.com/watch?v=lmhlsBwRKGo&list=PLBkwGJXcrCAS-s51m2n1ed_xbyqI_cEio&pp=iAQB)
+
+> عاش يا تنين انت كده خلصت جزء كبير اوي في المشوار بتاعنا
 ### 🗝 Programming language
 #### Object-Oriented Programming
  [Issam Abd Elnabi (OOP only 9 : 26 )](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)

@@ -14,6 +14,7 @@ The CS Roadmap is a comprehensive guide designed for anyone looking to dive into
                     <li><b>Introduction to Database Systems:</b>Provides an understanding of how data is stored, managed, and retrieved, which is essential for handling information in any application.
 
 </li>
+                    <li><b>Design Patterns</b> offers standard solutions to common problems, improves code maintenance and organization, encourages reusability across projects, facilitates effective communication among developers, reduces errors, and increases flexibility for future changes. In short, they boost efficiency, quality, and adaptability.</li>
 </ul>
 
 The CS Roadmap ensures a well-rounded understanding of computer science, from the basics to advanced topics, preparing learners to tackle real-world challenges in technology and beyond.

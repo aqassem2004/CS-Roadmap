@@ -24,9 +24,10 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 - [Abdelrahman Gamal (CS50 Course Video 1)](https://youtu.be/baLMODtYFog?si=wOBuHGIxcVfoDaXD)
 - [Abdelrahman Gamal (CS50 Course Video 2)](https://youtu.be/o0jttG2c49M?si=YreL6IMTfgyBxqlx)
 - [Abdelrahman Gamal (CS50 Course Video 3)](https://youtu.be/IYEkbGhabfk?si=qZn8f7Ox4z5Z6dop)
-                   
+
+# Beginner Level
 ## 🗝 Programming language 
-> لغات البرمجة كتيرة جدا و متنوعه فهنحاول نركز مع بعض علي اللغات المنتشرة عندنا الا وهم C++ و C# و بفضل انك تبدأ ب C++ عشان هتلاقي مصادر كتير محترمة تساعدك و عشان دي اللغة الي هنستخدمها و احنا بنتعلم Problem Solving
+> لغات البرمجة كتيرة جدا و متنوعه فهنحاول نركز مع بعض علي اللغات المنتشرة عندنا الا وهم C++ و C# و بفضل انك تبدأ ب C++ عشان هتلاقي مصادر كتير محترمة تساعدك و عشان دي اللغة الي هنستخدمها و احنا بنتعلم معظم الشغل قدام
 > طب هل الفرق بين اللغات كبير ؟؟ طبعا لا و انت بتتعلم برمجة بتتعلم القواعد و بتستخدمها علي اي لغة ف انت تأكد من انك فاهم اللغة الي بتذاكر بيها كويس و لو حبيت بعد كده تتنقل بين اللغات الامر هيكون سهل جدا
 
 ### C#
@@ -41,20 +42,34 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 - [Adel Nasim ](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3)
 
 ## STL's
-> عرفت اللغة بتاعتك يا سيدي تعالي نعرف بقي بعد الحاجات الي هتساعدنا في شغلنا و الي هنبني عليها شغل كتير في ال Data Structure
+> عرفت اللغة بتاعتك يا سيدي تعالي نعرف بقي بعض الحاجات الي هتساعدنا في شغلنا و الي هنبني عليها شغل كتير في ال Data Structure
+> و اعمل حسابك ان الشرح من اول هنا ب C++ و زي م قلتلك انت بتتعلم فكرة مش لغة ف متقلقش لو انت مش عارف حاجه عن C++
 - [Muhammad Magdi](https://www.youtube.com/playlist?list=PLw2JSXGww1OS2iElMxLGO2TiG88Ggy1rv)
 - [Adel Nasim](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
 
+## Time Complexity
+> تعالي بقي نبطل نكتب كود و خلاص احنا محتاجين نعرف امتي نكتب الكود دا و هل هو فعلا احسن كود و نتعمق شويتين في Time Complexity analysis
+- [Video 1](https://www.youtube.com/watch?v=wEbdQeVwLlo&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=1&pp=iAQB)
+- [Video 2](https://www.youtube.com/watch?v=o5zf5oVHtn0&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=2&pp=iAQB)
+
 ## Recursion & Bactracking
-> دلوقتي هنبدأ نشتغل شغل عالي شويتين و نفهم كل تفصيلة عن استخدام ال Functions في اللغة و اعمل حسابك ان الشرح ب C++ و زي م قلتلك انت بتتعلم فكرة مش لغة ف متقلقش لو انت مش عارف حاجه عن C++
+> دلوقتي هنبدأ نشتغل شغل عالي شويتين و نفهم كل تفصيلة عن استخدام ال Functions في اللغة 
 - [Functions](https://www.youtube.com/watch?v=6m-RTOsvp7E&list=PLBkwGJXcrCATmqJ-xKYBtZIoMTVpHz6p7&pp=iAQB)
 - [Recursion](https://www.youtube.com/watch?v=t0cHKEof1S8&list=PLBkwGJXcrCATvPBkCUoJzURlO3MIeHZji&pp=iAQB)
 - [Bactracking](https://www.youtube.com/watch?v=lmhlsBwRKGo&list=PLBkwGJXcrCAS-s51m2n1ed_xbyqI_cEio&pp=iAQB)
 
 > عاش يا تنين انت كده خلصت جزء كبير اوي في المشوار بتاعنا
+
+
+## Object-Oriented Programming
+> هنا بقي بدأنا شغل الجد دا الموضوع الي بيفرق كل واحد عن التاني في المجال و عيب تقول علي نفسك Developer و انت مش عارف حاجه عن OOP و بفضل انك تتعلم بالغة بتاعتك عشان متضيعش وقت كتير
+
+- [Issam Abd Elnabi (OOP only 9 : 26 ) C#](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
+- [Mostafa Saad Ibrahim C++ ](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG)
+
 ### 🗝 Programming language
 #### Object-Oriented Programming
- [Issam Abd Elnabi (OOP only 9 : 26 )](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
+ 
 #### C#
 
 - [Dani Krossing (C# English)](https://www.youtube.com/playlist?list=PL0eyrZgxdwhxD9HhtpuZV22KxEJAZ55X-)

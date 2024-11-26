@@ -68,6 +68,9 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 ## Object-Oriented Programming
 > هنا بقي بدأنا شغل الجد دا الموضوع الي بيفرق كل واحد عن التاني في المجال و عيب تقول علي نفسك Developer و انت مش عارف حاجه عن OOP و بفضل انك تتعلم بالغة بتاعتك عشان متضيعش وقت كتير
 
+> و زي م اتفقت معاك اوعي تتعلم حاجة قبل م تفهمها و تفهم الفايدة منها ف هديك كده فيديو جميل و مبسط الدنيا [This video](https://youtu.be/AF7A4BSI8XI?si=cxOwcJ7pscOXj81t)
+
+
 - [Issam Abd Elnabi (OOP only 9 : 26 ) C#](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
 - [Mostafa Saad Ibrahim C++ ](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG)
 
@@ -79,12 +82,13 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 > اوعدك انك هتكون تنين بجد لو عملت المشاريع دي
 ## Data Structure & Algorithm
 
-> في الجزء دا انا مش عاوزك تدخل تسمع محتوي و خلاص انا عاوزك تفهم احنا ليه بنتعلم الكلام دا عشان كده عاوزك تسمع الفيديوهات دي الاول 
+> في الجزء دا انا مش عاوزك تدخل تسمع محتوي و خلاص انا عاوزك تفهم احنا ليه بنتعلم الكلام دا عشان كده عاوزك تسمع الفيديوهات دي الاول
+> عشان تفهم اي هي ال Data Structure [دوس هنا](https://www.youtube.com/watch?v=N-vU8VZ5ukA&t=19s) و ال Algorithm [دوس هنا](https://www.youtube.com/watch?v=mURktueKdmU&list=PLPt2dINI2MIayAafeRHZPVhIoL7yZTyB9)
 
 > طيب سمعت الفيديو حلو اوي تعالي بقي نشوف احنا ورانا اي
 > احنا بس محتاجين نقسم الجزء دا ل نصين
 ### Data Structure 
-> هنا احنا جايين نفهم ازاي الSTL's اتعملت من الاول خالص
+
 # Advanced Level
 > تعالي معايه نأخد غطس محترم عشان نفهم اكثر عن بعض المواضيع الي مينفعش انسان في المجال بتاعنا ميكونش عارفها
 

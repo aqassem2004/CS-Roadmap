@@ -26,6 +26,8 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 - [Abdelrahman Gamal (CS50 Course Video 2)](https://youtu.be/o0jttG2c49M?si=YreL6IMTfgyBxqlx)
 - [Abdelrahman Gamal (CS50 Course Video 3)](https://youtu.be/IYEkbGhabfk?si=qZn8f7Ox4z5Z6dop)
 
+
+> يا سلام لو تبدأ الدنيا ب انك تسمع الفيديو الجميل ده ل د مصطفي سعد عشان تفتح عقلك ب اهمية الاساسيات و ازاي هتخليك شخص احسن [This video](https://www.youtube.com/watch?v=xs8pDrX4B5k&list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB&index=11)
 # Beginner Level
 ## 🗝 Programming language 
 > لغات البرمجة كتيرة جدا و متنوعه فهنحاول نركز مع بعض علي اللغات المنتشرة عندنا الا وهم C++ و C# و بفضل انك تبدأ ب C++ عشان هتلاقي مصادر كتير محترمة تساعدك و عشان دي اللغة الي هنستخدمها و احنا بنتعلم معظم الشغل قدام

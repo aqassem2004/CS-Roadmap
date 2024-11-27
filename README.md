@@ -83,11 +83,17 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 ## Data Structure & Algorithm
 
 > في الجزء دا انا مش عاوزك تدخل تسمع محتوي و خلاص انا عاوزك تفهم احنا ليه بنتعلم الكلام دا عشان كده عاوزك تسمع الفيديوهات دي الاول
-> عشان تفهم اي هي ال Data Structure [دوس هنا](https://www.youtube.com/watch?v=N-vU8VZ5ukA&t=19s) و ال Algorithm [دوس هنا](https://www.youtube.com/watch?v=mURktueKdmU&list=PLPt2dINI2MIayAafeRHZPVhIoL7yZTyB9)
+> عشان تفهم اي هي ال Data Structure [دوس هنا](https://www.youtube.com/watch?v=N-vU8VZ5ukA&t=19s) او [ هنا](https://www.youtube.com/watch?v=jGP19W5IObA&list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt&index=1&t=2s) و ال Algorithm [دوس هنا](https://www.youtube.com/watch?v=mURktueKdmU&list=PLPt2dINI2MIayAafeRHZPVhIoL7yZTyB9)
 
 > طيب سمعت الفيديو حلو اوي تعالي بقي نشوف احنا ورانا اي
 > احنا بس محتاجين نقسم الجزء دا ل نصين
 ### Data Structure 
+- [Dr Mostafa Saad](https://www.youtube.com/playlist?list=PLPt2dINI2MIZX2EtY81WI-lDkvhKziLKM) محتوي نظري اكثر
+- [Adel Nasim](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) شرح المفاهيم و التطبيق عليها
+- [Mega Code](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8) شرح المفاهيم و تطبيق بردو بس مش كامل
+
+### Algorithm
+
 
 # Advanced Level
 > تعالي معايه نأخد غطس محترم عشان نفهم اكثر عن بعض المواضيع الي مينفعش انسان في المجال بتاعنا ميكونش عارفها
@@ -101,14 +107,12 @@ The CS Roadmap ensures a well-rounded understanding of computer science, from th
 - [1 Dr. Ahmed Hagag](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)
 - [2 Ahmed Younes Video 1](https://www.youtube.com/watch?v=cjZqwsxLVtQ&list=PLkpYqKNqc_CvCqERss2WBKWE3fb1jEmKE&index=6)
 - [2 Ahmed Younes Video 2](https://www.youtube.com/watch?v=EWof2WGvFCw&list=PLkpYqKNqc_CvCqERss2WBKWE3fb1jEmKE&index=6)
-
-## Design Patterns
-- [Christopher Okhravi](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
-
 # General Knowledge
 > زي ما انت شايف دي حاجات هتسهل عليك الشغل و تعرفك الدنيا بتمشي ازاي و لك حرية الاختيار طبعا
 - [Git and GitHub](https://youtu.be/Q6G-J54vgKc?si=Ybxu8hq2V33G8tFZ)
 - [APIs](https://www.youtube.com/watch?v=GZvSYJDk-us)
+- [Design Patterns](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+- [Network]()
 
 
 # الخاتمة
